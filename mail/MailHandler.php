@@ -44,7 +44,7 @@
 		if(!mail($owner_email, $subject, $messageBody)){
 			throw new Exception('mail failed');
 		}else{
-			header("Location: http://www.yethulushabaattorneys.co.za/");
+			header("Location: https://gwazi86.github.io/sylvester.github.io/");
 			die();
 			/*echo '<h3>Mail Sent</h3>';*/
 		}
