@@ -1,6 +1,6 @@
 <?php
 	$stripHTML = true;
-	$owner_email = "sylvester.magwaza@umuzi.org";
+	$owner_email = "andilesylvestermagwaza@gmail.com";
 	// $headers = 'From:' . $_POST["contact_email"];
 	$subject = 'Subject: ' . $_POST["contact_subject"];
 	$messageBody = "";
